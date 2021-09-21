@@ -6,7 +6,7 @@ Welcome to my page! I'm Ben, a code-addicted student from the <img src="https://
 ### Projects ✨
 
 All of my projects are open source 💗.  
-I maintain around 10 open source projects, such as:
+I maintain a few open source projects, such as:
 
 * **[Egglord](https://github.com/Spiderjockey02/Discord-Bot)**, another Discord BOT  
 * **[erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook)** - A facebook plugin for [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/freyacodes/Lavalink) client).
