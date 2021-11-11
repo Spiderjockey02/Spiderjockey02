@@ -11,7 +11,7 @@ I maintain a few open source projects, such as:
 * **[Egglord](https://github.com/Spiderjockey02/Discord-Bot)**, another Discord BOT  
 * **[erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook)** - A facebook plugin for [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/freyacodes/Lavalink) client).
 * **[Auto-poster and notifications](https://github.com/Spiderjockey02/auto-poster-and-notifications)** - Allows users to get notified when other social media's get posted even new reddits post.
-* **[FileHost server]https://github.com/Spiderjockey02/filehost-server)** - A file storage host, for accessing your files across the world.
+* **[FileHost server](https://github.com/Spiderjockey02/filehost-server)** - A file storage host, for accessing your files across the world.
 
 and much more coming soon...
 
