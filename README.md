@@ -8,7 +8,8 @@ Welcome to my page! I'm Ben, a code-addicted student from the <img src="https://
 All of my projects are open source 💗.  
 I maintain a few open source projects, such as:
 
-* **[Egglord](https://github.com/Spiderjockey02/Discord-Bot)**, another Discord BOT  
+* **[Installer](https://github.com/Spiderjockey02/installer)** - A simple installer to install any of my repos.
+* **[Egglord](https://github.com/Spiderjockey02/Discord-Bot)** - An advanced multi-purpose discord bot (Music, Logging, Levels, reaction roles etc).
 * **[erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook)** - A facebook plugin for [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/freyacodes/Lavalink) client).
 * **[Auto-poster and notifications](https://github.com/Spiderjockey02/auto-poster-and-notifications)** - Allows users to get notified when other social media's get posted even new reddits post.
 * **[FileHost server](https://github.com/Spiderjockey02/filehost-server)** - A file storage host, for accessing your files across the world.
